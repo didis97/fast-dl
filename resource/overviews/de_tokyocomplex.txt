@@ -1,0 +1,24 @@
+"de_tokyocomplex"
+{
+	"material"	"overviews/de_tokyocomplex_radar"
+	"pos_x"		"-1496"
+	"pos_y"		"2004"
+	"scale"		"4.00"
+	"rotate"	"0"
+	"zoom"		"1.4"
+
+	//loading screen icons and positions
+
+	"CTSpawn_x"	"0.48"
+ 	"CTSpawn_y"	"0.14"
+	"TSpawn_x"	"0.47"
+	"TSpawn_y"	"0.89"
+
+	"bombA_x"	"0.23"
+	"bombA_y"	"0.33"
+	"bombB_x"	"0.69"
+	"bombB_y"	"0.41"
+}
+
+
+//Overview: scale 4.00, pos_x -1496, pos_y 2004

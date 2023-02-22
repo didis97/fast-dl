@@ -1,0 +1,14 @@
+Tokyo Complex by Albert Naumov with the help of Deen Mugal.
+version 1.0 [January 2016]
+
+
+Location: Tokyo Prefecture
+An anti-government faction seeking to unmask unethical experiments has infiltrated a government research complex. Their objective is to either destroy the facility's power supply or servers, which will in turn shut down its security systems, granting them further access into the facility.
+
+A quick response security team has been dispatched through the tunnels connecting to the facility, with authorisation to use deadly force. 
+
+-
+Custom Assets by Deen Mugal and Albert Naumov.
+Special Thanks - CGTextures.com
+
+Please report any bugs/problems with this level in the comment section on it's steam workshop page.

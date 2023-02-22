@@ -1,0 +1,23 @@
+// Overview: scale 4, pos_x -2268, pos_y 2091
+
+
+"de_supply"
+{
+	"material"	"overviews/de_supply"	// texture file
+	"pos_x"		"-2268"	// upper left world coordinate
+	"pos_y"		"2091"
+	"scale"		"4" 
+	"rotate"	"1"
+	"zoom"		"1.4"	
+
+	// loading screen icons and positions
+	"CTSpawn_x"	"0.25"
+	"CTSpawn_y"	"0.80"
+	"TSpawn_x"	"0.22"
+	"TSpawn_y"	"0.06"
+
+	"bombA_x"	"0.23"
+	"bombA_y"	"0.58"
+	"bombB_x"	"0.87"
+	"bombB_y"	"0.55"
+}
