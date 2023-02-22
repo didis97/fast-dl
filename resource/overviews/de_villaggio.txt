@@ -1,0 +1,12 @@
+// HLTV overview description file for de_villaggio.bsp
+
+"de_villaggio"
+{
+	"material"	"overviews/de_villagio_radar"	// texture file
+	"pos_x"		"-342"	// upper left world coordinate
+	"pos_y"		"2915"
+	"scale"		"5"
+
+
+}
+

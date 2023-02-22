@@ -1,0 +1,7 @@
+"de_cefalu_go"
+{
+"material" "overviews/de_cefalu_go"
+"pos_x"	 "-7311" //MAP X COORDS
+"pos_y"	 "3855"	//MAP Y COORDS
+"scale"	 "7"	 //MAP SCALE
+}

@@ -1,0 +1,7 @@
+"de_rails_b1"
+{
+	"material"		"overviews/de_rails_b1"
+	"pos_x"		"-2245"
+	"pos_y"		"2749"
+	"scale"		"4.5"
+}
